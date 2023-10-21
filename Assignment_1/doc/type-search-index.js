@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"sunnyA1_3475_002","l":"ListInterface"},{"p":"sunnyA1_3475_002","l":"LList"},{"p":"sunnyA1_3475_002","l":"Node"},{"p":"sunnyA1_3475_002","l":"Person"},{"p":"sunnyA1_3475_002","l":"SocialMediaApp"}];updateSearchResults();
